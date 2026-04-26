@@ -46,3 +46,4 @@ python emprestimos.py
 
 Este sistema foi desenvolvido como versão inicial (v1.0).
 Melhorias de arquitetura e qualidade de código estão previstas para as próximas versões.
+Teste da aula de Engenharia de Software II
